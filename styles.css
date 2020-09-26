@@ -3,6 +3,11 @@
 
 body {
     padding:30px;
+} 
+
+.enableClass{
+	margin:20px;
+	cursor:pointer;
 }
 
 
